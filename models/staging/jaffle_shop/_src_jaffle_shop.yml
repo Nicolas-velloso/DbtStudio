@@ -1,0 +1,10 @@
+version: 2
+
+sources:
+  - name: raw_jaffle_shop
+    database: sinuous-analog-510919-p0
+    schema: raw_jaffle_shop
+    tables:
+      - name: customers
+
+      - name: orders

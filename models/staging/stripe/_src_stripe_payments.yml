@@ -1,0 +1,8 @@
+version: 2
+
+sources:
+  - name: raw_stripe
+    database: sinuous-analog-510919-p0
+    schema: raw_stripe
+    tables:
+      - name: payments
